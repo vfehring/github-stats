@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 91.765%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.899%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 2.646%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.440%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.160%;" class="progress-item"></span><span style="background-color: #ffc200;width: 0.088%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.002%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 91.763%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.899%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 2.646%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.440%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.160%;" class="progress-item"></span><span style="background-color: #ffc200;width: 0.088%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.002%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.002%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -194,6 +194,15 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4F5D95;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PHP</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 1050ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3B2F63;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
